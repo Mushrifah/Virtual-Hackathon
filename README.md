@@ -46,4 +46,4 @@ Please check in every 8hrs in the #sg_hackathon-orgnizrs, so we know you are sti
 Judges: [Amitrajit Bose](https://www.linkedin.com/in/amitrajitbose/),[Yemissi B. Kifouly](https://www.linkedin.com/in/yemissib-kifouly/), [Fairoza Amira Binti Hamzah](https://www.linkedin.com/in/fairoza-amira-binti-hamzah/), [Arka Chakraborty](https://www.linkedin.com/in/arka-chakraborty-96a336145/)
 
 
-Organizers: [Ngong Ivoline](https://www.linkedin.com/in/ivoline-ngong-96238899/),[Munira Omar](https://www.linkedin.com/in/munniomer/), Mushrifan Hassan, Mohona and Amina Assouane
+Organizers: [Ngong Ivoline](https://www.linkedin.com/in/ivoline-ngong-96238899/),[Munira Omar](https://www.linkedin.com/in/munniomer/), [Mushrifah Hasan](http://www.linkedin.com/in/mushrifah-hasan), Mohona and Amina Assouane
