@@ -27,7 +27,7 @@ On Tuesday.
 
 ## RULES
 1. Teams should be made up of at most 4 individuals.
-2. Kernels must be committed before **Sunday @ 11:59pm GMT**. No points are gained for submitting before this time but all submissions after this time will not be accepted. 
+2. Kernels must be committed before **Sunday @ 11:59pm GMT**. No points are gained for submitting before this time but all submissions after this time will not be accepted. **Any teams that make any changes to their kernel after this time will be disqualified**
 3. Please include short description/summary of your
  - Model architecture and hyperparameters
  - and Why you used these models 
@@ -43,3 +43,5 @@ Please check in every 8hrs in the #sg_hackathon-orgnizrs, so we know you are sti
  
  *Participation is not mendatory for Secure and Private AI Challenge scholars.*
 
+Judges: [Amitrajit Bose](https://www.linkedin.com/in/amitrajitbose/),[Yemissi B. Kifouly](https://www.linkedin.com/in/yemissib-kifouly/)
+Organizers: [Ngong Ivoline](https://www.linkedin.com/in/ivoline-ngong-96238899/), Munira Omar, Mushrifan Hassan and Mohona
