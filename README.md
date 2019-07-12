@@ -44,4 +44,5 @@ Please check in every 8hrs in the #sg_hackathon-orgnizrs, so we know you are sti
  *Participation is not mendatory for Secure and Private AI Challenge scholars.*
 
 Judges: [Amitrajit Bose](https://www.linkedin.com/in/amitrajitbose/),[Yemissi B. Kifouly](https://www.linkedin.com/in/yemissib-kifouly/)
+
 Organizers: [Ngong Ivoline](https://www.linkedin.com/in/ivoline-ngong-96238899/), Munira Omar, Mushrifan Hassan and Mohona
