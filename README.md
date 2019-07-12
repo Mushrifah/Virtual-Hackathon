@@ -36,7 +36,10 @@ On Tuesday.
  
 Please check in every 8hrs in the #sg_hackathon-orgnizrs, so we know you are still there :). Feel free to send pictures of you or your team working on the hackathon, send text messages or motivational messages to motivate your peers. 
 
-*Participation is not mendatory for Secure and Private AI Challenge scholars.*
  
  
  <img src="images/Ok-We-Have-Lets-Do-This-Meme.jpg" alt="drawing" width="1000" height="350">
+ 
+ 
+ *Participation is not mendatory for Secure and Private AI Challenge scholars.*
+
