@@ -40,10 +40,9 @@ Please check in every 8hrs in the #sg_hackathon-orgnizrs, so we know you are sti
  
  <img src="images/Ok-We-Have-Lets-Do-This-Meme.jpg" alt="drawing" width="1000" height="350">
  
- 
- *Participation is not mendatory for Secure and Private AI Challenge scholars.*
+  *Participation is not mendatory for Secure and Private AI Challenge scholars.*
 
-Judges: [Amitrajit Bose](https://www.linkedin.com/in/amitrajitbose/),[Yemissi B. Kifouly](https://www.linkedin.com/in/yemissib-kifouly/), [Fairoza Amira Binti Hamzah](https://www.linkedin.com/in/fairoza-amira-binti-hamzah/), [Arka Chakraborty](https://www.linkedin.com/in/arka-chakraborty-96a336145/)
+Judges: [George Christopoulos](https://github.com/geochri), [Amitrajit Bose](https://www.linkedin.com/in/amitrajitbose/),[Yemissi B. Kifouly](https://www.linkedin.com/in/yemissib-kifouly/), [Fairoza Amira Binti Hamzah](https://www.linkedin.com/in/fairoza-amira-binti-hamzah/), [Arka Chakraborty](https://www.linkedin.com/in/arka-chakraborty-96a336145/),[Anna Unger](https://www.linkedin.com/in/annakunger/)
 
 
-Organizers: [Ngong Ivoline](https://www.linkedin.com/in/ivoline-ngong-96238899/),[Munira Omar](https://www.linkedin.com/in/munniomer/), [Mushrifah Hasan](http://www.linkedin.com/in/mushrifah-hasan), Mohona and Amina Assouane
+Organizers: [Ngong Ivoline](https://www.linkedin.com/in/ivoline-ngong-96238899/),[Munira Omar](https://www.linkedin.com/in/munniomer/), [Mushrifah Hasan](http://www.linkedin.com/in/mushrifah-hasan), Mahfuza Humayra Mohona and Amina Assouane
