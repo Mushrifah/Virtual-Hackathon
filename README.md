@@ -1,4 +1,4 @@
-<img src="images/spaichackathoners.jpg" alt="drawing" width="1200" height="350">
+<img src="images/spaichackathoners.v1.jpg" alt="drawing">
 
 # Virtual-Hackathon
 Participate in virtual hackathon for scholars of [Secure and Private AI Scholarship 
