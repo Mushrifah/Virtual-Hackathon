@@ -10,7 +10,7 @@ Every Weekend. The first one is this weekend. It runs from **Saturday @ 00:01am 
 
 
 ## 2. Where is it?
-The dataset and the commits will be made on Kaggle. If you aren't used to Kaggle Kernels this is the perfect occasion to start learning. (Please wait for link to be shared just before starting time).
+The dataset and the commits will be made on Kaggle on the [SPAIC HACKATHON](https://www.kaggle.com/spaics) Organization page. If you aren't used to Kaggle Kernels this is the perfect occasion to start learning. 
 
 
 ## 3. How to participate?
@@ -43,6 +43,7 @@ Please check in every 8hrs in the #sg_hackathon-orgnizrs, so we know you are sti
  
  *Participation is not mendatory for Secure and Private AI Challenge scholars.*
 
-Judges: [Amitrajit Bose](https://www.linkedin.com/in/amitrajitbose/),[Yemissi B. Kifouly](https://www.linkedin.com/in/yemissib-kifouly/), [Fairoza Amira Binti Hamzah](https://www.linkedin.com/in/fairoza-amira-binti-hamzah/)
+Judges: [Amitrajit Bose](https://www.linkedin.com/in/amitrajitbose/),[Yemissi B. Kifouly](https://www.linkedin.com/in/yemissib-kifouly/), [Fairoza Amira Binti Hamzah](https://www.linkedin.com/in/fairoza-amira-binti-hamzah/), [Arka Chakraborty](https://www.linkedin.com/in/arka-chakraborty-96a336145/)
+
 
 Organizers: [Ngong Ivoline](https://www.linkedin.com/in/ivoline-ngong-96238899/), Munira Omar, Mushrifan Hassan and Mohona
