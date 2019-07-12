@@ -10,7 +10,7 @@ Every Weekend. The first one is this weekend. It runs from **Saturday @ 00:01am 
 
 
 ## 2. Where is it?
-The dataset and the commits will be made on Kaggle on the [SPAIC HACKATHON](https://www.kaggle.com/spaics) Organization page. If you aren't used to Kaggle Kernels this is the perfect occasion to start learning. 
+The dataset and the commits will be made on Kaggle on the [SPAIC HACKATHON](https://www.kaggle.com/spaics) Organization page. If you aren't used to Kaggle Kernels this is the perfect occasion to start learning. (Datasets will be added on this page before the hackathon begins)
 
 
 ## 3. How to participate?
