@@ -20,7 +20,11 @@ Use this form to sign up. You can participate alone or as part of a team of up t
 
 
 ## How will submissions be evaluated?
-Submissions will be evaluated by members of the community with a background in DS, DL or ML on the following criteria: **accuracy**, **accuracy (loss) on unseen data**, **model efficiency**, **time of commit**.
+Submissions will be evaluated by members of the community with a background in DS, DL or ML on the following criteria: 
+- **accuracy**, 
+- **accuracy (loss) on unseen data**, 
+- **model efficiency**,
+- **time of commit**.
 
 
 ## 5. When will results be announced?
