@@ -12,7 +12,7 @@ Challenge from Facebook](https://eu.udacity.com/facebook-AI-scholarship) conduct
 
 
 ## Where is it?
-Currently on going Hackathon: https://www.kaggle.com/spaics/hackathon-blossom-flower-classification
+Active Hackathon: https://www.kaggle.com/spaics/hackathon-blossom-flower-classification
 
 
 ## How to participate?
