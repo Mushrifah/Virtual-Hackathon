@@ -16,10 +16,8 @@ Monday, July 15th 00:00GMT
 
 **2nd runner up:** *Abhishek Lalwani*
 
-Important announcements
---
-
- ## Announcemetns 
+Important Announcements
+-- 
 
 - **DO NOT** make your kernel public while the hackathon is still running.
 
@@ -50,15 +48,16 @@ Our judges have the true labels for this data, so they'll compare them with the 
 
 We are adding an extra 24hrs for you guys to do this and then recommit your models.  This time it starts 11:59 GMT Monday (midday) and ends at  **11:59 GMT Tueday**(midday) too.
 
-========
+
+
+
+
 **TIP FROM @Ronit**
 
 *Why is committing my kernel taking a lot of time*
 
 - Committing a kernel runs the entire kernel from cell to cell and then saves it. If you have a cell for training the model, the entire model will be trained from the start which can result in long commit times. I suggest you save your model file and then load it to predict labels for the test data. This way your model won't have to be re-trained every time you commit your kernel.
-- Please Sort the Predictions by the Image names in Ascending Order, that way there will be no discrepancies in the order of the predictions which may occur due to different methods of importing the test data.
-
-For example, here are my predictions sorted in an ascending manner:
+- Please Sort the Predictions by the Image names in Ascending Order, that way there will be no discrepancies in the order of the predictions which may occur due to different methods of importing the test data. For example, here are my predictions sorted in an ascending manner:
 
 ![sc](https://user-images.githubusercontent.com/14244685/61531580-0f726300-aa49-11e9-8842-29edb101e263.png)
 
