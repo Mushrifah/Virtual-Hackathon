@@ -6,8 +6,8 @@ Challenge from Facebook](https://eu.udacity.com/facebook-AI-scholarship) conduct
 
 
 ## When is it?
-- Hackathon starts From **Saturday 00:01am GMT  to Monday 11:59am GMT** .
-- Coding Time => Saturday **00:01am GMT  to Sunday 11:59pm GMT**.
+- Hackathon starts => **Saturday 00:01am GMT  to Monday 11:59am GMT** .
+- Coding Time => **Saturday 00:01am GMT  to Sunday 11:59pm GMT**.
 - Commiting Kernel => **Sunday 00:01am GMT  to Monday 11:59am GMT**.
 
 
