@@ -21,10 +21,11 @@ Use this form to sign up. You can participate alone or as part of a team of up t
 
 ## How will submissions be evaluated?
 Submissions will be evaluated by members of the community with a background in DS, DL or ML on the following criteria: 
-- **accuracy**, 
-- **accuracy (loss) on unseen data**, 
-- **model efficiency**,
-- **time of commit**.
+- **Accuracy and Loss on Training Data**, 
+- **Accuracy and Loss on Validation Data**
+- **Accuracy on Test data**, 
+- **Model Efficiency**,
+- **Time of Commit**.
 
 
 ## 5. When will results be announced?
@@ -33,7 +34,7 @@ On Thursday.
 
 ## RULES
 1. Teams should be made up of at most 4 individuals.
-2. Kernels must be committed before **Sunday @ 11:59pm GMT**. No points are gained for submitting before this time but all submissions after this time will not be accepted. **Any teams that make any changes to their kernel after this time will be disqualified**
+2. Kernels must be committed before **Monday @ 11:59am GMT**. No points are gained for submitting before this time but all submissions after this time will not be accepted. **Any teams that make any changes to their kernel after this time will be disqualified**
 3. Please include short description/summary of your
  - Model architecture and hyperparameters.
  - and Why you used these models.
