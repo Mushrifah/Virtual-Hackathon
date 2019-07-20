@@ -73,7 +73,7 @@ When you create a new kernel in the right hand side you will find settings there
 **6. Can we participate in the hackathon after the hackathon starts?**
 
 Yes the hackathon is open for the whole weekend so you guys can fill in the form and start it now also
-https://docs.google.com/forms/d/e/1FAIpQLScYJWYJ7CBtDCpKQY2rProTw0xp2dXtta24qjw_89R-RXti1w/viewform
+https://forms.gle/sX3sUDSE85xH4PS18
  
  
  
