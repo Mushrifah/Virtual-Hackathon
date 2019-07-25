@@ -4,9 +4,9 @@
 https://www.kaggle.com/spaics/hackathon-blossom-flower-classification
 
 ## Started at:
-Satarday, July 13th 00:00GMT 
+Satarday, July 20th 00:00GMT 
 ## Ended at:
-Monday, July 15th 00:00GMT 
+Monday, July 22th 00:00GMT 
 
 ## Winners:
 
@@ -117,3 +117,23 @@ Thank you so much for participating and we hope to see you all next time
 
 Please, we will love to hear your feedback on this hackathon, so that we can make future experiences better. Please fill out the feedback form
 https://docs.google.com/forms/d/e/1FAIpQLSfOhxb5oNHcwfk5wnjOb4fViqv2GRLVJEgUF7Yt9qRh8eUSUg/viewform?usp=sf_link
+
+
+
+# The Results
+
+Hello everyone !
+During this long 48h+24h Hackathons, you have worked hard and we really hope you have  both learned from and appreciated this hackathon !
+*The results will be posted in 30 minutes !*  :star-struck:
+
+_Our judges @George Christopoulos and @Arka have all graded your submissions following the criteria previously announced._
+
+*In 30 minutes, we will first announce the second runner up, then 10 minutes afterwards the runner up, and after the same amount time, we will finally announce our Hackathon Winner !* :sports_medal:
+
+But first, for every participant that has submitted a kernel, here's a participation badge ! :udacity_badge:  Congratulations to everyone ! :grinning:
+
+_Also, don't forget to share this on social medial and tell your friends about it !_ :badger:
+
+:thank-you::clapping: Special thanks to @Divya for the *4 badges* and @Stark for the *winner's badge* ! :clapping: :thank-you:
+
+Our upcoming hackathon topic is based on *NLP* and *sentiment analysis*. So start preparing for that. :wink:
