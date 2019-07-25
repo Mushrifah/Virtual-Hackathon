@@ -1,7 +1,7 @@
 # Hackathon Auto-matic
 
 ## Link of dataset: 
-https://www.kaggle.com/spaics/hackathon-blossom-flower-classification
+https://www.kaggle.com/c/virtual-hack 
 
 ## Started at:
 Satarday, July 20th 00:00GMT 
