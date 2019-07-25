@@ -1,4 +1,4 @@
-# Hackathon Auto-matic
+Venkata Rathnam Muralidharan# Hackathon Auto-matic
 
 ## Link of dataset: 
 https://www.kaggle.com/c/virtual-hack 
@@ -10,11 +10,11 @@ Monday, July 22th 00:00GMT
 
 ## Winners:
 
-**Winner:** *Venkata Rathnam Muralidharan*
+**Winner:** @Khush**
 
-**FIRST RUNNER UP:** *Shivu*
+**FIRST RUNNER UP:** *Venkata Rathnam Muralidharan*
 
-**2nd runner up:** *Abhishek Lalwani*
+**2nd runner up:** *@Labiba @happycoder354 @Shahana @Joy Podda*
 
 Important Announcements
 -- 
