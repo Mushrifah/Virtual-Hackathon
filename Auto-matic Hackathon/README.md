@@ -1,4 +1,4 @@
-Venkata Rathnam Muralidharan# Hackathon Auto-matic
+# Hackathon Auto-matic
 
 ## Link of dataset: 
 https://www.kaggle.com/c/virtual-hack 
@@ -10,7 +10,7 @@ Monday, July 22th 00:00GMT
 
 ## Winners:
 
-**Winner:** @Khush**
+**Winner:** *@Khush*
 
 **FIRST RUNNER UP:** *Venkata Rathnam Muralidharan*
 
@@ -27,18 +27,24 @@ This is to avoid risks of people copying each other's code.
 
 - We have now uploaded the test set into Kaggle under the name "test set.zip", so you can finally test your model! 
 
-Mohona12:00 PM
+
 
 Announcements:
 --
 
 # Welcome to Hackathon Automatic 
+
 The hackathon begins NOW!  
 Here is the flow for this hackathon
+
 1.Register yourself or your team for the Hackathon Auto_matic by filling up the google form https://forms.gle/sX3sUDSE85xH4PS18
+
 2.Go to https://www.kaggle.com/c/virtual-hack and click on Join Competition
+
 3.Go on create a kernel and start working on the problem.
+
 4.Finally when you are done with it generate the submission csv file and then go to Submit Predictions and submit your CSV file
+
 5.Yayy you are done with your first submission!!!!
 
 This time around there is a public learderboard which displays the accuracy on 30% of the test data. Note that the fact that you are leading on this leaderboard doen't necessarily mean you are the winner. But there are high chances you could be the winner. Also, this will be just one rubric for evaluation. The other rubrics are specified under Evaluation section or on the github repo https://github.com/Mushrifah/Virtual-Hackathon. 
@@ -75,12 +81,14 @@ No, this is not an error. You should add a header to the dataframe so that the v
 4. Do I have to print the predicted values in the kernel eventhough I'll submit the csv file?
 Yes, You have to print the values in the kernel and also submit these predicted values in a csv file
 
-# 6 HOURS TO GO 
+# 6 HOURS TO GO
+
 It's been 54hours into the hackathon!
 Wow, you've all worked so hard
 We hope you guys are having a great time ! 
 
 Just posting a kind reminder that if you haven't committed your kernel, please start committing it now, cause time is running out. After Monday 11:59am GMT, you can start making your kernels public.  Just to remind you about the rules , in case you committed your kernel without doing them.
+
 It is MANDATORY to the following:
 
 1. Name your kernels using the format TeamName:KernelName.
@@ -99,6 +107,7 @@ Thanks and wish you all the best
 
 
 # Hackathon Auto-matic Ends 
+
 Hello guys, we have come to the end of the hackathon.
 Great job everyone!!! 
 Though the dataset was challenging and people were getting low accuracies, you kept going.
@@ -124,7 +133,7 @@ https://docs.google.com/forms/d/e/1FAIpQLSfOhxb5oNHcwfk5wnjOb4fViqv2GRLVJEgUF7Yt
 
 Hello everyone !
 During this long 48h+24h Hackathons, you have worked hard and we really hope you have  both learned from and appreciated this hackathon !
-*The results will be posted in 30 minutes !*  :star-struck:
+*The results will be posted in 30 minutes !*  
 
 _Our judges @George Christopoulos and @Arka have all graded your submissions following the criteria previously announced._
 
@@ -132,9 +141,9 @@ _Our judges @George Christopoulos and @Arka have all graded your submissions fol
 
 But first, for every participant that has submitted a kernel, here's a participation badge ! :udacity_badge:  Congratulations to everyone ! :grinning:
 
-_Also, don't forget to share this on social medial and tell your friends about it !_ :badger:
+_Also, don't forget to share this on social medial and tell your friends about it !_ 
 
-:thank-you::clapping: Special thanks to @Divya for the *4 badges* and @Stark for the *winner's badge* ! :clapping: :thank-you:
+:thank-you::clapping: Special thanks to @Divya for the *4 badges* and @Stark for the *winner's badge* ! 
 
 Our upcoming hackathon topic is based on *NLP* and *sentiment analysis*. So start preparing for that. :wink:
 
