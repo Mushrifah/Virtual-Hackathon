@@ -137,3 +137,21 @@ _Also, don't forget to share this on social medial and tell your friends about i
 :thank-you::clapping: Special thanks to @Divya for the *4 badges* and @Stark for the *winner's badge* ! :clapping: :thank-you:
 
 Our upcoming hackathon topic is based on *NLP* and *sentiment analysis*. So start preparing for that. :wink:
+
+
+# SECOND RUNNER UP 
+
+Congratulations to @Labiba @happycoder354 @Shahana @Joy Poddar (Team Vengers), our 2nd runner up ! 
+Link of Kernel: https://www.kaggle.com/shahanamogal/team-vengers-car-classification
+
+It would be really appreciable if you write a short post explaining *your code's*architecture and share it with us. 
+
+In 10 minutes, we will announce the 1st runner up !    
+
+# WINNER  
+
+Congratulations to @Khush (Team Ignite), our winner ! 
+Your submission was by far our judges' favorite !! 
+Link of Kernel: https://www.kaggle.com/ikhushpatel/ignite-car-classification-ikhushpatel-khush
+
+It would be really appreciable if you write a short post explaining your code's architecture and share it with us.
