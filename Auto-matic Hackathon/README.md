@@ -12,9 +12,18 @@ Monday, July 22th 00:00GMT
 
 **Winner:** *@Khush*
 
+Link of his Kernel : https://www.kaggle.com/ikhushpatel/ignite-car-classification-ikhushpatel-khush
+
+
 **FIRST RUNNER UP:** *Venkata Rathnam Muralidharan*
 
+Link of Kernel: https://www.kaggle.com/venkatarathnam/the-mufasa-hackathon-auto-matic
+
+
 **2nd runner up:** *@Labiba @happycoder354 @Shahana @Joy Podda*
+
+Link of Kernel: https://www.kaggle.com/shahanamogal/team-vengers-car-classification
+
 
 Important Announcements
 -- 
