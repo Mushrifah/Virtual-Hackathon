@@ -12,8 +12,16 @@ Challenge from Facebook](https://eu.udacity.com/facebook-AI-scholarship) conduct
 
 
 ## Where is it?
-Active Hackathon: https://www.kaggle.com/spaics/hackathon-blossom-flower-classification
 
+1. Hackathon Blossom: https://www.kaggle.com/spaics/hackathon-blossom-flower-classification
+
+2. Hackathon Auto_matic: https://www.kaggle.com/c/virtual-hack
+
+3. Hackathon Sentimento: https://www.kaggle.com/c/virtual-hackathon
+
+4. Hackathon Sentimento_v2: https://www.kaggle.com/c/nlp-hack
+
+5. Hackathon Forecast: https://www.kaggle.com/c/web-traffic-time-series-forecasting/overview
 
 ## How to participate?
 Use this form to sign up. You can participate alone or as part of a team of up to 4 individuals. Only 1 member of the team needs to fill the form. http://bit.ly/hackathon-signup. Please join the #sg_hackathon-orgnizrs channel to get the announcements and ask questions.
@@ -28,7 +36,7 @@ Submissions will be evaluated by members of the community with a background in D
 - **Time of Commit**.
 
 
-## 5. When will results be announced?
+## When will results be announced?
 On Thursday.
 
 
@@ -42,6 +50,15 @@ On Thursday.
  This will be give our judges an idea about what you have done.
  
 Please check in every 8hrs in the #sg_hackathon-orgnizrs, so we know you are still there :). Feel free to send pictures of you or your team working on the hackathon, send text messages or motivational messages to motivate your peers. 
+
+# Some Statistics:
+
+- For about 80% of our participants, this was the first hackathon they have ever taken part in.
+
+- For 95% of our participants this was their first time taking part in a virtual hackathon (This was really motivating to the organizers)
+
+-  The winners for the 5 hackathons (from first to fifth): @Venkata Rathnam Muralidharan @Khush @Ronit @Abhishek Lalwani and @Ronit
+
 
 # Here are the most commonly asked question :
 
@@ -86,6 +103,8 @@ Judges: [George Christopoulos](https://github.com/geochri), [Amitrajit Bose](htt
 
 
 Organizers: [Ngong Ivoline](https://www.linkedin.com/in/ivoline-ngong-96238899/),[Munira Omar](https://www.linkedin.com/in/munniomer/), [Mushrifah Hasan](http://www.linkedin.com/in/mushrifah-hasan), [Mahfuza Humayra Mohona](http://www.linkedin.com/in/mhmohona) and [Amina Assouane](https://www.linkedin.com/in/amina-assouane/)
+
+
 
 
   *Participation is not mandatory for Secure and Private AI Challenge scholars.*
